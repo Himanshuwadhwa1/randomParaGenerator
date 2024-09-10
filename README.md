@@ -1,5 +1,6 @@
 # Simple random paragraph generator
-## used Recoil for state managemennt
+## Link is in About section
+### Used Recoil for state managemennt
 Enter number and get paragraph that number of words
 
 # Landing page
